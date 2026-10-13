@@ -1,0 +1,20 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+
+
+.main{
+ border: 1px solid black;
+ width: 70%;
+ margin: auto;
+ text-align: center;
+}
+.para{
+ text-align: right;
+}
+.para2{
+ text-align:  left;
+}
